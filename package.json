@@ -115,7 +115,7 @@
     "@metamask/obs-store": "^5.0.0",
     "@metamask/post-message-stream": "^4.0.0",
     "@metamask/providers": "^8.1.1",
-    "@popperjs/core": "^2.4.0",
+    "@popperjs/core": "^2.10.1",
     "@reduxjs/toolkit": "^1.6.2",
     "@sentry/browser": "^5.26.0",
     "@sentry/integrations": "^5.26.0",
